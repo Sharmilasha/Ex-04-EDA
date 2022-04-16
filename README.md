@@ -66,13 +66,13 @@ df.corr()
 sns.heatmap(df.corr(),annot=True)
 ```
 ### OUTPUT:
-![OUTPUT](.//t1.png)
-![OUTPUT](.//t2.png)
-![OUTPUT](.//t3.png)
-![OUTPUT](.//t4.png)
-![OUTPUT](.//t5.png)
-![OUTPUT](.//t6.png)
-![OUTPUT](.//t7.png)
+![OUTPUT](.//b1.png)
+![OUTPUT](.//b2.png)
+![OUTPUT](.//b3.png)
+![OUTPUT](.//b4.png)
+![OUTPUT](.//b5.png)
+![OUTPUT](.//b6.png)
+![OUTPUT](.//b7.png)
 
 
 ### RESULT:
